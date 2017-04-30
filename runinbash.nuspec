@@ -49,7 +49,7 @@ This is a nuspec. It mostly adheres to https://docs.nuget.org/create/Nuspec-Refe
     <!--<bugTrackerUrl></bugTrackerUrl>-->
     <tags>runinbash admin wsl bashonwindows bash windows10</tags>
     <summary>RunInBash executes commands under bash, directly from within cmd or PowerShell.</summary>
-    <description>RunInBash executes commands under bash, directly from within cmd or PowerShell. `RunInBash` is aliased to `$`, and is used as follows:
+    <description>`RunInBash` executes commands under bash, directly from within cmd or PowerShell. `RunInBash` is aliased to `$`, and is used as follows:
 
     `$ uname -a`
 
