@@ -1,0 +1,6 @@
+VERIFICATION
+Verification is intended to assist the Chocolatey moderators and community
+in verifying that this package's contents are trustworthy.
+ 
+The binaries included in this package should be identical to the ones available for free download from https://neosmart.net/RunInBash/
+The SHA-1 of the current version of RunInBash.exe (also known as $.exe) should be f2178ea5556a118a1eefdca9fc56c0a21dc8c791
